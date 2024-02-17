@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="4" name="" sampleRate="44100" start="23552" end="536320" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="3" subtype="box" minimum="621.245" maximum="4596.23" units="Hz" />
+    <dataset id="3" dimensions="2">
+      <point frame="23552" value="2138.96" duration="83200" extent="2384.99" label="1" />
+      <point frame="121856" value="2319.65" duration="98048" extent="1806.81" label="1" />
+      <point frame="243968" value="2283.51" duration="30720" extent="1734.54" label="1" />
+      <point frame="297984" value="1886.01" duration="55296" extent="1770.67" label="1" />
+      <point frame="360448" value="1235.56" duration="62208" extent="2276.58" label="1" />
+      <point frame="454400" value="1307.83" duration="81920" extent="1228.63" label="1" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="5" type="boxes" name="Boxes" model="4"  verticalScale="0"  colourName="Bright Green" colour="#14ff5a" darkBackground="true" />
+  </display>
+</sv>
