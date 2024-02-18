@@ -25,9 +25,10 @@ Before running the code, make sure you have installed all the required dependenc
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Dependencies
+```
 The code in this repository requires the following dependencies:
 - Python 3.x
 - Librosa
