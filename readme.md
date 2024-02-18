@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains prediction code and my audio data for my Ecology class at AIMS, South Africa, recorded during our expedition in [Intaka Island](https://intaka.co.za/). 
-The project focuses on the development of a Convolutional Neural Network (CNN) for identifying bird calls and analyze audio, contributing to ecological research and wildlife monitoring efforts. 
+The project focuses on the development of a Convolutional Neural Network (CNN) for identifying bird calls, contributing to ecological research and wildlife monitoring efforts. 
 The whole dataset used to trained the model can be accessed upon request to the AIMS, South Africa, AI students. But while waiting for the approval of your request, you can still simulate what we did by using our model and follow the steps below. 
 Thanks for all DeepLearning For Ecology lecturers and tutors: Dr.Emmanuel Dufourq, Dr. Lorene Jeantet, Matthew Van den Berg, and Milanto F. Rasolofohery.
 
