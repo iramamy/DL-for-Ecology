@@ -26,7 +26,7 @@ The code in this repository requires the following dependencies:
 - scikit-learn
 
 ## Reference
-- Jeantet, L., Dufourq, E., 2023. Improving deep learning acoustic classifiers with contextual information for wildlife monitoring. Ecological Informatics, 77, 102256.
+- [Jeantet, L., Dufourq, E., 2023. Improving deep learning acoustic classifiers with contextual information for wildlife monitoring. Ecological Informatics, 77, 102256.](https://www.sciencedirect.com/science/article/pii/S1574954123002856)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
