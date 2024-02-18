@@ -19,6 +19,7 @@ To use the code in this repository, follow these steps:
 The code in this repository requires the following dependencies:
 - Python 3.x
 - Librosa
+- resampy
 - TensorFlow
 - NumPy
 - Pandas
