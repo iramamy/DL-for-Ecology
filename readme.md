@@ -1,7 +1,7 @@
 # Developing a Convolutional Neural Network for Bird Call Identification: A Case Study at Intaka Island
 
 ## Overview
-This repository contains the code and resources related to the development of a Convolutional Neural Network (CNN) for identifying bird calls at Intaka Island. The project focuses on leveraging machine learning techniques to analyze audio data and detect bird calls, contributing to ecological research and wildlife monitoring efforts. The whole dataset used to trained the model can be accessed under request to the AIMS, South Africa, AI students. But while waiting for the approval of your request, you can still simulate what we did by following the steps below.
+This repository contains the code and resources related to the development of a Convolutional Neural Network (CNN) for identifying bird calls at Intaka Island. The project focuses on leveraging machine learning techniques to analyze audio data and detect bird calls, contributing to ecological research and wildlife monitoring efforts. The whole dataset used to trained the model can be accessed upon request to the AIMS, South Africa, AI students. But while waiting for the approval of your request, you can still simulate what we did by following the steps below.
 
 ## Repository Structure
 - **Data/**: This directory stores my unique audio datasets and the annotated files of each recording.
