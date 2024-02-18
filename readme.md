@@ -28,8 +28,8 @@ pip install -r requirements.txt
 ```
 
 ## Dependencies
-```
 The code in this repository requires the following dependencies:
+```
 - Python 3.x
 - Librosa
 - resampy
